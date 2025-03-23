@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925405748012125969/aebc2ee4fa4046dfa3a5f0e9b8a77590/artifacts
+end_time: 1742681128200
+entry_point_name: ''
+experiment_id: '925405748012125969'
+lifecycle_stage: active
+run_id: aebc2ee4fa4046dfa3a5f0e9b8a77590
+run_name: dashing-wolf-795
+run_uuid: aebc2ee4fa4046dfa3a5f0e9b8a77590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742681122204
+status: 3
+tags: []
+user_id: jacksoncosta

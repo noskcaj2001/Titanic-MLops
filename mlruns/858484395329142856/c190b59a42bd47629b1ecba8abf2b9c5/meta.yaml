@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jacksoncosta/Documents/IA_ANHEMBI/TITANIC_KAGGLE/mlruns/858484395329142856/c190b59a42bd47629b1ecba8abf2b9c5/artifacts
+end_time: 1742753156330
+entry_point_name: ''
+experiment_id: '858484395329142856'
+lifecycle_stage: active
+run_id: c190b59a42bd47629b1ecba8abf2b9c5
+run_name: popular-bass-99
+run_uuid: c190b59a42bd47629b1ecba8abf2b9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742753153359
+status: 3
+tags: []
+user_id: jacksoncosta

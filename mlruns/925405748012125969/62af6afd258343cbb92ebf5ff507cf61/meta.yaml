@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925405748012125969/62af6afd258343cbb92ebf5ff507cf61/artifacts
+end_time: 1742681229480
+entry_point_name: ''
+experiment_id: '925405748012125969'
+lifecycle_stage: active
+run_id: 62af6afd258343cbb92ebf5ff507cf61
+run_name: luminous-fawn-647
+run_uuid: 62af6afd258343cbb92ebf5ff507cf61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742681229389
+status: 4
+tags: []
+user_id: jacksoncosta

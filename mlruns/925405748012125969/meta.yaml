@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/925405748012125969
+creation_time: 1742680132985
+experiment_id: '925405748012125969'
+last_update_time: 1742680132985
+lifecycle_stage: active
+name: titanic_survived

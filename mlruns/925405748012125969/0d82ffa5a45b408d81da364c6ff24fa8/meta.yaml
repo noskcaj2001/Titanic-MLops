@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925405748012125969/0d82ffa5a45b408d81da364c6ff24fa8/artifacts
+end_time: 1742681002113
+entry_point_name: ''
+experiment_id: '925405748012125969'
+lifecycle_stage: active
+run_id: 0d82ffa5a45b408d81da364c6ff24fa8
+run_name: dazzling-ram-216
+run_uuid: 0d82ffa5a45b408d81da364c6ff24fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742680997056
+status: 3
+tags: []
+user_id: jacksoncosta

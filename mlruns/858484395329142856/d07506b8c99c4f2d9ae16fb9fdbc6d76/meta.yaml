@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jacksoncosta/Documents/IA_ANHEMBI/TITANIC_KAGGLE/mlruns/858484395329142856/d07506b8c99c4f2d9ae16fb9fdbc6d76/artifacts
+end_time: 1742753815747
+entry_point_name: ''
+experiment_id: '858484395329142856'
+lifecycle_stage: active
+run_id: d07506b8c99c4f2d9ae16fb9fdbc6d76
+run_name: victorious-dove-110
+run_uuid: d07506b8c99c4f2d9ae16fb9fdbc6d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742753811483
+status: 3
+tags: []
+user_id: jacksoncosta

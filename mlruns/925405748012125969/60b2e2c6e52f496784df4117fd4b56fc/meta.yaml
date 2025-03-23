@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925405748012125969/60b2e2c6e52f496784df4117fd4b56fc/artifacts
+end_time: 1742681162645
+entry_point_name: ''
+experiment_id: '925405748012125969'
+lifecycle_stage: active
+run_id: 60b2e2c6e52f496784df4117fd4b56fc
+run_name: beautiful-slug-418
+run_uuid: 60b2e2c6e52f496784df4117fd4b56fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742681157301
+status: 3
+tags: []
+user_id: jacksoncosta

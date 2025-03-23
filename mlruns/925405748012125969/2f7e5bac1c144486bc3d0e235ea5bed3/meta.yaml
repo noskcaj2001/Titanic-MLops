@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925405748012125969/2f7e5bac1c144486bc3d0e235ea5bed3/artifacts
+end_time: 1742680711780
+entry_point_name: ''
+experiment_id: '925405748012125969'
+lifecycle_stage: active
+run_id: 2f7e5bac1c144486bc3d0e235ea5bed3
+run_name: unequaled-rook-22
+run_uuid: 2f7e5bac1c144486bc3d0e235ea5bed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742680704314
+status: 4
+tags: []
+user_id: jacksoncosta

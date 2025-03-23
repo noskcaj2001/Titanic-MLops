@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925405748012125969/1edb96b700a2453492de4a94fbdbea90/artifacts
+end_time: 1742681318811
+entry_point_name: ''
+experiment_id: '925405748012125969'
+lifecycle_stage: active
+run_id: 1edb96b700a2453492de4a94fbdbea90
+run_name: bemused-mare-283
+run_uuid: 1edb96b700a2453492de4a94fbdbea90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742681311316
+status: 3
+tags: []
+user_id: jacksoncosta

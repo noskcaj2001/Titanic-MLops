@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/730820880537749388/eb9b51b0f07e4f0fa5488df51f573fdc/artifacts
+end_time: 1742752738797
+entry_point_name: ''
+experiment_id: '730820880537749388'
+lifecycle_stage: active
+run_id: eb9b51b0f07e4f0fa5488df51f573fdc
+run_name: burly-cub-909
+run_uuid: eb9b51b0f07e4f0fa5488df51f573fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752738717
+status: 4
+tags: []
+user_id: jacksoncosta

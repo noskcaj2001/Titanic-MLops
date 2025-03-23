@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925405748012125969/b1ce5e441bcb4b7c9361ddeb0722f8a1/artifacts
+end_time: 1742680814500
+entry_point_name: ''
+experiment_id: '925405748012125969'
+lifecycle_stage: active
+run_id: b1ce5e441bcb4b7c9361ddeb0722f8a1
+run_name: judicious-fish-153
+run_uuid: b1ce5e441bcb4b7c9361ddeb0722f8a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742680811172
+status: 3
+tags: []
+user_id: jacksoncosta

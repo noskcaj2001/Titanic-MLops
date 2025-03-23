@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/jacksoncosta/Documents/IA_ANHEMBI/TITANIC_KAGGLE/mlruns/706524480940523199/1ab72ad4374d4150aa5af8b7b81a2fb4/artifacts
+deleted_time: 1742753295158
+end_time: 1742744598972
+entry_point_name: ''
+experiment_id: '706524480940523199'
+lifecycle_stage: deleted
+run_id: 1ab72ad4374d4150aa5af8b7b81a2fb4
+run_name: defiant-squirrel-323
+run_uuid: 1ab72ad4374d4150aa5af8b7b81a2fb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742744598893
+status: 4
+tags: []
+user_id: jacksoncosta

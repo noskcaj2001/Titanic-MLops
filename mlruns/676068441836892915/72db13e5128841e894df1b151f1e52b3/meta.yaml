@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jacksoncosta/Documents/IA_ANHEMBI/TITANIC_KAGGLE/mlruns/676068441836892915/72db13e5128841e894df1b151f1e52b3/artifacts
+end_time: 1742753400085
+entry_point_name: ''
+experiment_id: '676068441836892915'
+lifecycle_stage: active
+run_id: 72db13e5128841e894df1b151f1e52b3
+run_name: legendary-rat-40
+run_uuid: 72db13e5128841e894df1b151f1e52b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742753397530
+status: 3
+tags: []
+user_id: jacksoncosta

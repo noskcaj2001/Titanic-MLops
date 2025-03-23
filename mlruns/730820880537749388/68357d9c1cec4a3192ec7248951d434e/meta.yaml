@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/730820880537749388/68357d9c1cec4a3192ec7248951d434e/artifacts
+end_time: 1742752780386
+entry_point_name: ''
+experiment_id: '730820880537749388'
+lifecycle_stage: active
+run_id: 68357d9c1cec4a3192ec7248951d434e
+run_name: calm-shrike-50
+run_uuid: 68357d9c1cec4a3192ec7248951d434e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752780305
+status: 4
+tags: []
+user_id: jacksoncosta
