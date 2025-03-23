@@ -110,11 +110,6 @@ Utilizar ferramentas como Airflow ou Prefect para orquestrar o pipeline de forma
 ### Monitoramento de Modelos:
 Implementar monitoramento contínuo do desempenho do modelo em produção.
 
-## Autor
-[Jackson Costa]
-
-## Licença
-Este projeto está licenciado sob a Licença MIT.
 
 ## Referências
 - [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)

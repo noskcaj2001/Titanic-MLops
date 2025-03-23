@@ -1,0 +1,3 @@
+# Ignorar pastas geradas pelo projeto
+mlruns/
+mlartifacts/
