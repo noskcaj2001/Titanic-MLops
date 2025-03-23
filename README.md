@@ -81,8 +81,9 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-```
+
 #### Visualizar Experimentos no MLflow:
+
 ```bash
 mlflow ui
 ```
